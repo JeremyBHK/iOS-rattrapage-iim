@@ -29,3 +29,9 @@ Créer un bouton qui permet au clique d’ajouter un élément.
 Donner la possibilité d’éditer un élément.
 Vous devoir également pouvoir supprimer un élément de la liste.
 
+# A savoir :
+## Main.Storyboard
+
+Ce fichier permet, sous Xcode, de pouvoir visualiser le storyboard de l'application et de pouvoir modifier l'UI de cette dernière.
+
+##ViewController
