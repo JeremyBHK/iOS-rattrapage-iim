@@ -45,4 +45,4 @@ Il s'agit de l'API : https://api.opendota.com/api/heroStats
 C'est une API open data. 
 Elle permet de récupérer plusieurs élément concernant des personnages d'un jeu vidéo nommé Dota.
 
-Les données sont récupérer via la fonction _downloadHero_ dans le fichier __ListHeroView__
+Les données sont récupérer via la fonction *__downloadHero__* dans le fichier __ListHeroView__
