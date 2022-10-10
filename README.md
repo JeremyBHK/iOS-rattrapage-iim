@@ -33,5 +33,16 @@ Vous devoir également pouvoir supprimer un élément de la liste.
 ## Main.Storyboard
 
 Ce fichier permet, sous Xcode, de pouvoir visualiser le storyboard de l'application et de pouvoir modifier l'UI de cette dernière.
+Par exemple, une "table view" ajouter via Storyboard va me permettre d'afficher une liste d'élément récupérer via une API
 
-##ViewController
+## ViewController
+
+Ce fichier qui va "controler" l'application. Il permet de gérer l'affichage de la première vue et également de gérer la première fonctionnalité de l'appication, à savoir appliquer une couleur aléatoire sur un élément texte au clique d'un bouton.
+
+## L'API
+
+Il s'agit de l'API : https://api.opendota.com/api/heroStats
+C'est une API open data. 
+Elle permet de récupérer plusieurs élément concernant des personnages d'un jeu vidéo nommé Dota.
+
+Les données sont récupérer via la fonction _downloadHero_ dans le fichier _ListHeroViexw_
